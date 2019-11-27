@@ -8,4 +8,4 @@ In order to do this, they use hundreds of domains to facilitate this. This repos
 
 ## Contributing
 
-Pull requests are accepted and are very welcome! The format of the file is pretty simple, and I do request that you follow it. If you have any questions, don't hesitate to ask. Thank you to all of the contributors that have contributed to this list so far. Your help is really appreciated. :)
+Pull requests are accepted and are very welcome! The format of the file is pretty simple, and I do request that you follow it. When submitting changes, please keep the file sorted. If you have any questions, don't hesitate to ask. Thank you to all of the contributors that have contributed to this list so far. Your help is really appreciated. :)
