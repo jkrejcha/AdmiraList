@@ -1,0 +1,35 @@
+version: 2
+updates:
+  - package-ecosystem: "docker"
+    directory: "/"
+    schedule:
+      interval: "daily"
+      time: '08:00'
+      timezone: America/Los_Angeles
+    open-pull-requests-limit: 99
+    reviewers:
+    - LanikSJ
+    assignees:
+    - LanikSJ
+  - package-ecosystem: "pip"
+    directory: "/"
+    schedule:
+      interval: "daily"
+      time: '08:00'
+      timezone: America/Los_Angeles
+    open-pull-requests-limit: 99
+    reviewers:
+    - LanikSJ
+    assignees:
+    - LanikSJ
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "daily"
+      time: '08:00'
+      timezone: America/Los_Angeles
+    open-pull-requests-limit: 99
+    reviewers:
+    - LanikSJ
+    assignees:
+    - LanikSJ
